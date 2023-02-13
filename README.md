@@ -1,15 +1,11 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    README.md                                          :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: chenxu <chenxu@mail.ustc.edu.cn>           +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2020/06/15 13:56:01 by chenxu            #+#    #+#              #
-#    Updated: 2022/09/15 13:58:55 by chenxu           ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
+```
+ copyright https://mit-license.org
+ File              : README.md
+ Author            : chenxu <chenxu@mail.ustc.edu.cn>
+ Date              : 1 2020-06-15 13:56:16
+ Last Modified Date: 1 2023-02-13 23:13:16
+ Last Modified By  : chenxu <chenxu@mail.ustc.edu.cn>
+```
 
 这是一段非常欠抽的代码。运行这个命令的后果自己负责。
 
