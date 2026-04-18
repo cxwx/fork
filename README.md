@@ -1,11 +1,9 @@
-```
- copyright https://mit-license.org
- File              : README.md
- Author            : cx <c????u@mail.ustc.edu.cn>
- Date              : 1 2020-06-15 13:56:16
- Last Modified Date: 1 2023-02-13 23:13:16
- Last Modified By  : cx <c????u@mail.ustc.edu.cn>
-```
+ <!-- copyright https://mit-license.org -->
+ <!-- File              : README.md -->
+ <!-- Author            : cx <c????u@mail.ustc.edu.cn> -->
+ <!-- Date              : 1 2020-06-15 13:56:16 -->
+ <!-- Last Modified Date: 1 2023-02-13 23:13:16 -->
+ <!-- Last Modified By  : cx <c????u@mail.ustc.edu.cn> -->
 
 这是一段非常欠抽的代码。运行这个命令的后果自己负责。
 
